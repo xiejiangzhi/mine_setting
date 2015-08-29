@@ -1,0 +1,12 @@
+
+development:
+  name: base
+  number: <%= 111 + 222 %>
+  env: development
+
+test:
+  name: base
+  number: 123
+  env: test
+
+
