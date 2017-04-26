@@ -12,4 +12,8 @@
 *.o
 *.a
 mkmf.log
+
 mine_setting*.gem
+*.swp
+
+/spec/examples.txt

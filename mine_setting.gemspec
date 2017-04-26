@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["xiejiangzhi@gmail.com"]
   spec.summary       = %q{Sample load setting files}
   spec.description   = %q{Sample load setting files}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/xjz19901211/mine_setting"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
